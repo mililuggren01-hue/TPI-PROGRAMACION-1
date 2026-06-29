@@ -6,7 +6,7 @@
 
 ## 👥 Integrantes del Equipo
 * [cite_start]**Luggren María de los Milagros** - Desarrollo de Lógica, Filtros y Documentación[cite: 249].
-* **[Nombre de tu Compañero/a]** - Desarrollo de Algoritmos de Ordenamiento, Persistencia CSV y Video.
+
 
 ---
 
